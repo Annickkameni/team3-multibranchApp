@@ -1,2 +1,1 @@
-# team3-multibranchApp
-to analyse multibranch jenkins pipeline
+# team3-parallel
